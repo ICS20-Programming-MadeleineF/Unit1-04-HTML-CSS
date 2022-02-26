@@ -1,0 +1,20 @@
+body{
+  background-color: PeachPuff;
+}
+h1{
+  background-color: #7C00B6;
+  color: darkgray;
+  text-align:center;
+}
+p{
+  background-color:crimson;
+}
+ul{
+  background-color:PowderBlue;
+}
+tr{
+  background-color:PowderBlue;
+}
+table{
+  background-color:DarkBlue;
+}

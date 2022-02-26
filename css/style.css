@@ -1,0 +1,28 @@
+body{
+  background-color: blue;
+}
+h1{
+  background-color: #FFEBCD;
+  color: #FF7F50;
+  text-align:center;
+}
+h2{
+  font-family:sans-serif;
+  color:#000E68;
+  padding:40px;
+  background-color:#E5286D;
+}
+h5{
+  color:#FEB052;
+  background-color:hsl(120, 100%, 55%);
+  font-family:Impact;
+  text-align:right;
+}
+h3{
+  background-color:#52FEBD;
+  color:rgb(255, 0, 195);
+}
+p{
+  background-color:red;
+  color:#0b6100;
+}
